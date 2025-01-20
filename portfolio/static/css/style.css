@@ -1,7 +1,7 @@
 body{
     float: left;
     width: 100%;
-    background-color: rgb(211, 71, 157);
+    background-color: rgb(231, 93, 178);
 }
 .main-div img{
     float: left;
@@ -55,8 +55,8 @@ body{
 }
 .about-div p{
     text-align: center;
-    color: chartreuse;
-    font-size: 20px;
+    color: rgb(43, 4, 114);
+    font-size: 25px;
 }
 .skill-div{
     float: left;
